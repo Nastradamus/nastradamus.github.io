@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+PostgreSQL specialist with deep systems administration background in HA/HL environments.  
+For last five years my main occupation is connected with improvement of postgres HA-clusters in two of the biggest Russian IT-companies: Avito and Rambler.  
+
+Now I working on http://postgres.ai project.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My hobbies:
+
+- computer science (try to understand how the things works)
+- snowboard, skateboard, longboard
+- bass guitar
+- literature
+- video games
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Telegram: @nas_tradamus  
+See other contacts in the footer below.
