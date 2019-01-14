@@ -8,7 +8,8 @@ PostgreSQL specialist with deep systems administration background in HA/HL envir
 
 For five years my main occupation been connected with improvement of postgres HA-clusters in two of the biggest Russian IT-companies: Avito and Rambler.  
 
-Now I working on http://postgres.ai project.
+Now I working on
+[postgres.ai](http://postgres.ai) project.
 
 ### More Information
 
