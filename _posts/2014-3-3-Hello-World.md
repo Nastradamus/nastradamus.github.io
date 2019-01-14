@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Hi
 ---
 
 Here I will post my experience with PostgreSQL.
