@@ -6,7 +6,7 @@ permalink: /about/
 
 PostgreSQL specialist with deep systems administration background in HA/HL environments.  
 
-Five years my main occupation was connected with improvement of postgres HA-clusters in two of the biggest Russian IT-companies: Avito and Rambler.  
+For five years my main occupation been connected with improvement of postgres HA-clusters in two of the biggest Russian IT-companies: Avito and Rambler.  
 
 Now I working on http://postgres.ai project.
 
@@ -14,7 +14,7 @@ Now I working on http://postgres.ai project.
 
 My hobbies:
 
-- computer science (try to understand how the things works)
+- computer science (try to understand how the things work)
 - snowboard, skateboard, longboard
 - bass guitar
 - literature
