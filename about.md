@@ -21,8 +21,10 @@ My hobbies:
 - literature
 - video games
 
-### Contact me
+### About Author
 
+Victor Yagofarov
 e.m.: xnasx[]yandex.ru
 Telegram: @nas_tradamus  
+ 
 See other contacts in the footer below.
