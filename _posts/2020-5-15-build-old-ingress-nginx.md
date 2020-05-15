@@ -72,7 +72,7 @@ vim build/go-in-docker.sh
 ```
 
 А именно:  
-- меняем `E2E_IMAGE` на `docker.sberned.ru/ops/golang:1.10.7-alpine3.8-v7`
+- меняем `E2E_IMAGE` на `docker..ru/ops/golang:1.10.7-alpine3.8-v7`
 - удаляем в этом же файле ентрипоинт: `--entrypoint ${FLAGS}`
 
 ## Сохраняем правки
@@ -101,9 +101,9 @@ tagged quay.io/kubernetes-ingress-controller/nginx-ingress-controller-amd64:0.20
 ## Вешаем тэг и пушим:
 
 ```
-docker tag quay.io/kubernetes-ingress-controller/nginx-ingress-controller-amd64:0.20.0 docker.sberned.ru/ops/nginx-ingress-controller:0.20.0-patched-2
+docker tag quay.io/kubernetes-ingress-controller/nginx-ingress-controller-amd64:0.20.0 docker.myregistry.com/ops/nginx-ingress-controller:0.20.0-patched-2
 
-docker push docker.sberned.ru/ops/nginx-ingress-controller:0.20.0-patched-2
+docker push docker.myregistry.com/ops/nginx-ingress-controller:0.20.0-patched-2
 ```
 
 Готово!
