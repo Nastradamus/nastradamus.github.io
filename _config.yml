@@ -28,7 +28,8 @@ footer-links:
   rss: rss-feed
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  # youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: nastradamus333
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -37,11 +38,11 @@ footer-links:
 disqus: Nas
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-166895721-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://vitya.top
+url: https://vitya.top
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
